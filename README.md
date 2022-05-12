@@ -1,4 +1,4 @@
-# ezrent
+# EZRent
 
 A new Flutter project.
 
