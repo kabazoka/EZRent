@@ -1,6 +1,6 @@
 # EZRent
 
-A new Flutter project.
+A Tinder-like application for house rental implemented by Flutter.
 
 ## Getting Started
 
